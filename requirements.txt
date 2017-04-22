@@ -1,0 +1,7 @@
+los requerimientos para este proyecto son:
+
+Django 1.10
+mysql 5.x
+libjpg-dev
+libmysql-client
+
