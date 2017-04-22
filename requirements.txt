@@ -4,6 +4,3 @@ Django 1.10
 mysql 5.x
 libjpg-dev
 libmysql-client
-libpq-dev
-django-rest
-gunicorn
